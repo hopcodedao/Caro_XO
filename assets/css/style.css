@@ -8,13 +8,11 @@
     -moz-osx-font-smoothing: grayscale;
     font-family: 'Roboto', sans-serif;
     user-select: none;
-
-
 }
 
 body {
     margin: 0;
-    background-image: url(../image/5172658.jpg);
+    background-image: url(../image/bg.jpg);
     background-size: cover;
     background-color: #f2f2f2;
     color: #222222;
